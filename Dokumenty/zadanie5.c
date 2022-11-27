@@ -19,7 +19,7 @@ c[1]=a[1];}
 if(c[0]>c[1]){
 printf("zbior nie istnieje");}
 
-else{printf("%d",c[1]);}
+else{printf("%d",c[0]);}
 
 
 }
